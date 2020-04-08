@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charlotte-bronte/shirley</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-04-08T17:35:26Z</dc:date>
+		<meta property="dcterms:modified">2020-04-08T17:35:26Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,17 +47,17 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">In the early part of the 19th Century, two young women struggle in different ways for independence and love during turbulent times caused by the advent of mechanical looms in the textile industry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Shirley&lt;/i&gt;, published in 1849, was Charlotte Brontë’s second novel after &lt;i&gt;Jane Eyre&lt;/i&gt; (1847). Published under her pseudonym of “Currer Bell,” it differs in several respects from that earlier work. It is written in the third person with an omniscient narrator, rather than the first-person of &lt;i&gt;Jane Eyre&lt;/i&gt;, and incorporates the themes of industrial change, and the plight of unemployed workers. It also features strong pleas for the recognition of women’s intellect and right to their independence of thought and action.&lt;/p&gt;
-			&lt;p&gt;Set in the West Riding of Yorkshire during the Napoleonic period of the early 19th Century, it describes the confrontations between textile manufacturers and organized groups of workers protesting the introduction of mechanical looms. Among the several characters of the novel, three stand out: Robert Moore, a mill-owner determined to introduce modern methods despite sometimes violent opposition; his young cousin Caroline Helstone, who falls deeply in love with Robert; and Shirley Keeldar, a rich heiress who comes to live in the estate of Fieldhead, on whose land Robert’s mill stands. Robert’s business is in trouble, not so much because of the protests of the workers but because of a government decree which prevents him selling his finished cloth overseas during the duration of the war with Napoleon. He receives a loan from Miss Keeldar, and her interest in him seems to be becoming a romantic one, much to the distress of Caroline, who pines away for lack of any sign of affection from Robert.&lt;/p&gt;
-			&lt;p&gt;Shirley Keeldar is a remarkable female character for the time; strong, very independent-minded, dismissive of much of the standard rules of society, determined to decide on her own future. Interestingly, up to this point, the name “Shirley” was almost entirely a male name: Shirley’s parents had hoped for a boy. Such was the success of Brontë’s novel, however, that it became increasingly popular as a female name and is now almost exclusively so.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Shirley&lt;/i&gt;, published in 1849, was Charlotte Brontë’s second novel after &lt;i&gt;<a href="https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre">Jane Eyre</a>&lt;/i&gt;. Published under her pseudonym of “Currer Bell,” it differs in several respects from that earlier work. It is written in the third person with an omniscient narrator, rather than the first-person of &lt;i&gt;Jane Eyre&lt;/i&gt;, and incorporates the themes of industrial change and the plight of unemployed workers. It also features strong pleas for the recognition of women’s intellect and right to their independence of thought and action.&lt;/p&gt;
+			&lt;p&gt;Set in the West Riding of Yorkshire during the Napoleonic period of the early 19th Century, the novel describes the confrontations between textile manufacturers and organized groups of workers protesting the introduction of mechanical looms. Three characters stand out: Robert Moore, a mill-owner determined to introduce modern methods despite sometimes violent opposition; his young cousin Caroline Helstone, who falls deeply in love with Robert; and Shirley Keeldar, a rich heiress who comes to live in the estate of Fieldhead, on whose land Robert’s mill stands. Robert’s business is in trouble, not so much because of the protests of the workers but because of a government decree which prevents him selling his finished cloth overseas during the duration of the war with Napoleon. He receives a loan from Miss Keeldar, and her interest in him seems to be becoming a romantic one, much to the distress of Caroline, who pines away for lack of any sign of affection from Robert.&lt;/p&gt;
+			&lt;p&gt;Shirley Keeldar is a remarkable female character for the time: strong, very independent-minded, dismissive of much of the standard rules of society, and determined to decide on her own future. Interestingly, up to this point, the name “Shirley” was almost entirely a male name; Shirley’s parents had hoped for a boy. Such was the success of Brontë’s novel, however, that it became increasingly popular as a female name and is now almost exclusively so.&lt;/p&gt;
 			&lt;p&gt;Although never as popular or successful as the more classically romantic &lt;i&gt;Jane Eyre&lt;/i&gt;, &lt;i&gt;Shirley&lt;/i&gt; is nevertheless now highly regarded by critics.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30486</dc:source>
 		<dc:source>https://archive.org/details/shirley01bron</dc:source>
 		<dc:source>https://archive.org/details/shirley02bron</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">217600</meta>
+		<meta property="se:reading-ease.flesch">72.97</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Shirley</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charlotte-bronte_shirley</meta>
 		<dc:creator id="author">Charlotte Brontë</dc:creator>
@@ -90,6 +90,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
