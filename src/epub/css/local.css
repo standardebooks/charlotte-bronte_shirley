@@ -7,7 +7,7 @@
 	margin-bottom: 1em;
 }
 
-body [xml|lang]{
+blockquote[xml|lang]{
 	font-style: italic;
 }
 
