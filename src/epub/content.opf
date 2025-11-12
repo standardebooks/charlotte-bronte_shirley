@@ -64,8 +64,8 @@
 		<meta property="file-as" refines="#author">Brontë, Charlotte</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054114</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Thomas Lawrence</dc:contributor>
 		<meta property="file-as" refines="#artist">Lawrence. Thomas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Thomas_Lawrence</meta>
